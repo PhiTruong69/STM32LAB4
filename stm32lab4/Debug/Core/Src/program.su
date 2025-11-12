@@ -1,0 +1,6 @@
+program.c:9:6:leda	8	static
+program.c:12:6:ledb	8	static
+program.c:15:6:ledc	8	static
+program.c:18:6:ledd	8	static
+program.c:21:6:lede	8	static
+program.c:24:6:ledf	8	static
